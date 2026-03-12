@@ -132,8 +132,6 @@ cookies.json
 
 # Runtime data / local state
 data/
-E:\bing2api\BingImageCreator-main\data\settings.json
-E:\bing2api\BingImageCreator-main\data\bing_async_api.db
 
 # Node dependencies
 node_modules/
